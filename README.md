@@ -1,4 +1,4 @@
-## Olá, Hello, Hola!
+## Olá, Hello, Hola! 
  <div>
   <a href="https://github.com/ferzinia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandademelo&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
@@ -12,9 +12,18 @@
   <img align="center" alt="fer-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="fer-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="fer-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="fer-mysql" height="30" width="40" src="https://img2.gratispng.com/20180819/xv/kisspng-logo-mysql-cluster-database-oracle-corporation-macrosolution-5b7962c3aaa0d2.7413479715346817956989.jpg">
+  <img align="center" alt="fer-java" height="30" width="40" src="https://www.pngitem.com/pimgs/m/538-5380039_logo-java-clipart-png-download-java-circle-icon.png">
    </div>
    <div>
-
+ <H3> Estudante de Analise e Desenvolvimento de Sistemas.
+<br>Atualmente desenvolvendo Filtros com experiencia de Realidade Aumentada para clientes e empresas na plataforma Facebook e Instagram.
+<br><br>
+Principais aptitudes:
+{HTML:CSS JS
+Java
+Git/Github }
+Figma, Photoshop, Spark AR, Blender. entre outros
 </div>
 
    <div> 
