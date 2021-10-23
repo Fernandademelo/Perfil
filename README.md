@@ -19,11 +19,12 @@
  <H3> Estudante de Analise e Desenvolvimento de Sistemas.
 <br>Atualmente desenvolvendo Filtros com experiencia de Realidade Aumentada para clientes e empresas na plataforma Facebook e Instagram.
 <br><br>
-Principais aptitudes:
-{HTML:CSS JS
-Java
-Git/Github }
-Figma, Photoshop, Spark AR, Blender. entre outros
+<h4>Principais aptitudes:
+<br>{HTML/CSS.Materialize 🌸 
+ <br>/JS
+<br>Java
+<br>Git/Github 🐈 }
+<br><h5>Figma, Photoshop, Spark AR, Blender. entre outros
 </div>
 
    <div> 
